@@ -1,0 +1,5 @@
+﻿  Money_private.cpp
+  oop5_1_C.cpp
+  Создание кода...
+D:\Student\oop5.1C\oop5.1C\Money_private.cpp(87): warning C4715: operator/: значение возвращается не при всех путях выполнения
+  oop5.1C.vcxproj -> D:\Student\oop5.1C\Debug\oop5.1C.exe

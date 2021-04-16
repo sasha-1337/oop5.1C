@@ -1,0 +1,5 @@
+﻿  UnitTest5_1_C.cpp
+D:\Student\oop5.1C\oop5.1C\Money_public.cpp(87): warning C4715: operator/: значение возвращается не при всех путях выполнения
+D:\Student\oop5.1C\oop5.1C\Money_private.cpp(87): warning C4715: operator/: значение возвращается не при всех путях выполнения
+     Создается библиотека D:\Student\oop5.1C\Debug\UnitTest5_1_C.lib и объект D:\Student\oop5.1C\Debug\UnitTest5_1_C.exp
+  UnitTest5_1_C.vcxproj -> D:\Student\oop5.1C\Debug\UnitTest5_1_C.dll
